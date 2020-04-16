@@ -34,12 +34,6 @@ b.
 c.  
 d.   
 
-2.Question:  
-a.  
-b.  
-c.  
-d.   
-
 
 ##### Section 4: CNN Image Enhancement
 1.Question:  
